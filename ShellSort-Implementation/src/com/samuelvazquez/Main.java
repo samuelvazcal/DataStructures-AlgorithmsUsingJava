@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 		//int [] array = {20,35,-15,7,55,1,-22};
 		int [] array = {3,5,2,7,4};
-		//first loop is going to initialise the gap value that we are using and the
+		//first loop is going to initial ise the gap value that we are using and the
 		//reduce it on each iteration
 
 		//if the gap is zero, that means that we're gonna be comparing elements against themselves
